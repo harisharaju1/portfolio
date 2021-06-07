@@ -1,0 +1,30 @@
+@media (max-width: 640px) {
+  .content {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    margin-left: 16px !important;
+    margin-right: 16px !important;
+  }
+  .desc-project {
+    flex-basis: 65% !important;
+  }
+  .icons-style {
+    width: 8% !important;
+    margin: 3px 6px;
+  }
+}
+
+@media (max-width: 1024px) {
+  .desc-project {
+    flex-basis: 130%;
+  }
+  .icons-style {
+    width: 5%;
+    margin: 3px 8px;
+  }
+}
+@media (max-width: 400px) {
+  .off-diplay {
+    display: none !important;
+  }
+}

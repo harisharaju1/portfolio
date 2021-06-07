@@ -1,0 +1,47 @@
+.container div .title {
+  font-weight: 600;
+  font-size: 18px;
+  font-family: "Heebo", sans-serif;
+  line-height: 30px;
+}
+.container div .info {
+  font-family: "Heebo", sans-serif;
+  line-height: initial;
+  font-size: 1rem;
+}
+
+.container div .helpinfo {
+  font-family: "Heebo", sans-serif;
+  line-height: unset;
+}
+/* .container div > div {
+  margin-top: 5px;
+} */
+.container span.number {
+  height: 100%;
+}
+.container span.number span {
+  position: absolute;
+  font-size: 13px;
+  left: -50px;
+  font-weight: bold;
+}
+.container span.number span:first-child {
+  top: 0;
+}
+.container span.number span:last-child {
+  top: 100%;
+}
+
+.worked_on {
+  font-family: "Heebo", sans-serif;
+  margin-top: 8px;
+}
+
+.work_desc {
+  font-family: "Heebo", sans-serif;
+  margin-top: 10px;
+  line-height: 16px;
+  font-size: 13px;
+  /* width: 400px; */
+}

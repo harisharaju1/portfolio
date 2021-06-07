@@ -1,0 +1,34 @@
+<svg width="540" height="370" xmlns="http://www.w3.org/2000/svg">
+	<style type="text/css">
+	.st0{fill:#304057;}
+	.st1{fill:url(#SVGID_1_);}
+	.st2{fill:#4F82CE;}
+	.st3{font-family:"Heebo", "sans-serif";}
+	.st4{font-size:17.1911px;}
+	.st5{fill:#ADACAC;}
+	.st6{font-family:"Heebo", "sans-serif";}
+	.st7{font-size:20.0562px;}
+	.st8{fill:#B81F00;}
+	.st9{fill:#178D00;}
+</style>
+	<g>
+		<path class="st0" d="M0,0h540v370H0V0z" />
+
+		<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="-411.237" y1="568.4067" x2="-410.237" y2="567.4067" gradientTransform="matrix(540 0 0 -124.268 222068 70669.3281)">
+			<stop offset="0" style="stop-color:#223146" />
+			<stop offset="1" style="stop-color:#223146;stop-opacity:0" />
+		</linearGradient>
+		<path class="st1" d="M0,34.6h540v124.3H0V34.6z" />
+	</g>
+	<text transform="matrix(1.0096 0 0 1 42 181.3892)">
+		<tspan x="0" y="0" class="st2 st3 st4">Mobile</tspan>
+		<tspan x="0" y="24.1" class="st5 st6 st7">+91 6362368925</tspan>
+		<tspan x="0" y="68.8" class="st2 st3 st4">Email</tspan>
+		<tspan x="0" y="92.8" class="st5 st6 st7">harisharaju1@gmail.com</tspan>
+		<tspan x="0" y="137.5" class="st2 st3 st4">Location</tspan>
+		<tspan x="0" y="161.6" class="st5 st6 st7">Bengaluru, Karnataka, India</tspan>
+	</text>
+	<circle class="st8" cx="24" cy="19.8" r="6.8" />
+	<circle class="st9" cx="42" cy="19.8" r="6.8" />
+	<circle class="st5" cx="61" cy="19.8" r="6.8" />
+</svg>

@@ -1,0 +1,43 @@
+input[type="checkbox"] {
+  height: 0;
+  width: 0;
+  visibility: hidden;
+}
+
+.labelCustom {
+  cursor: pointer;
+  text-indent: -9999px;
+  width: 65px;
+  height: 35px;
+  /* background: #535FD7; */
+  background: linear-gradient(to left, #5162d8, #2feafc);
+  display: block;
+  border-radius: 60px;
+  position: relative;
+}
+
+.labelCustom:after {
+  content: "";
+  position: absolute;
+  top: 5px;
+  left: 6px;
+  width: 25px;
+  height: 25px;
+  background: #fff;
+  border-radius: 90px;
+  /* transition: 0.7s; */
+  transition: all 0.4s ease-out;
+}
+
+input:checked + .labelCustom {
+  background: linear-gradient(to left, #fe7e1f, #ffbc48);
+}
+
+input:checked + .labelCustom:after {
+  left: calc(100% - 5px);
+  transform: translateX(-100%);
+}
+
+.labelCustom:active:after {
+  width: 50px;
+}

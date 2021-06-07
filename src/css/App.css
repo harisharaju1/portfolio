@@ -1,0 +1,26 @@
+/* .has-top-divider::before {
+  content: "";
+  position: absolute;
+  top: 32px;
+  left: 0;
+  width: 100%;
+  display: block;
+  height: 1px;
+  background: #304057;
+}
+.has-top-divider {
+  position: relative;
+} */
+.site-footer-inner {
+  justify-content: space-between;
+  padding-top: 72px;
+  display: flex;
+}
+.logo-img-footer {
+  width: 13%;
+}
+.footer-brand {
+  display: flex;
+  justify-content: flex-end;
+  width: -webkit-fill-available;
+}

@@ -1,0 +1,12 @@
+.customOverlay {
+  background: #3e3f40b3;
+}
+.customModal {
+  max-width: 800px;
+  position: relative;
+  padding: 5rem;
+  background: #f1f1f5f7;
+  margin: auto;
+  border-radius: 4px;
+  box-shadow: 48px 16px 48px rgba(0, 0, 0, 0.2);
+}

@@ -1,0 +1,15 @@
+/* @import "./_reset.css"; */
+@import "./hero.css";
+@import "./hero-media.css";
+@import "./portfolio.css";
+@import "./imageHover.css";
+@import "~aos/dist/aos.css";
+@import "./tooltip.css";
+@import "./portfolio-media.css";
+@import "./contacts.css";
+@import "./askQuestion.css";
+@import "./App.css";
+@import "./modal.css";
+@import "./form.css";
+@import "./switchbox.css";
+@import "./timeline.css";
